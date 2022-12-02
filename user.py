@@ -63,8 +63,8 @@ class User():
     
     
     
-kaan = User(1, "Kaan", "Ayyıldız", "kaan.ayldz@gmail.com", "123321", 100)
-kaan.changeValue()
+#kaan = User(1, "Kaan", "Ayyıldız", "kaan.ayldz@gmail.com", "123321", 100)
+#kaan.changeValue()
 
 
 
